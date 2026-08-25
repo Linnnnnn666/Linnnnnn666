@@ -31,11 +31,6 @@
 `ESP32-S3` `ESP-IDF` `FreeRTOS` `I2S/UART/SPI/RMT` `双分区 OTA` `MQTT` `WebSocket`
 `毫米波雷达信号处理` `端侧状态机` `MCP` `LLM Agent` `RAG` `Python` `C/C++`
 
-## 🏆 竞赛
-
-- 全国大学生电子设计竞赛 · 省级二等奖（A 类）
-- 大唐杯 · 省级三等奖
-- 蓝桥杯 EDA 设计大赛 · 省级三等奖
 
 ## 📬 联系
 
